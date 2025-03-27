@@ -8,7 +8,7 @@
 
 #### Clone this Repository
 ```bash
-    git clone https://github.com/Krishna9588/Marketing-Analysis---Case-Study-.git
+    git clone https://github.com/shishir085/Marketing-Analysis-Case-Study
 ```
 
 #### Installation
